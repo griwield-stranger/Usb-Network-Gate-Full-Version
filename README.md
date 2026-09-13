@@ -240,4 +240,4 @@ This repository serves as the official landing page for USB Network Gate. The so
 **Get the most recent version of USB Network Gate today!**
 
 ---
-**Last updated:** 2026-09-13 01:47:46 UTC
+**Last updated:** 2026-09-13 06:55:07 UTC
